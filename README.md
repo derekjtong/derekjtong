@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Derek Tong</h1>
+<h1 align="center">Hi there 👋, I'm Derek</h1>
 
 # Tech Stack:
 ### Programming Languages:

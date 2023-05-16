@@ -1,4 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Derek</h1>
+<p align='center'>
+  🎓 Computer Science Student
+</p>
 
 # Tech Stack
 

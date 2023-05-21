@@ -3,7 +3,7 @@
   🎓 Computer Science Student
 </p>
 
-# Tech Stack
+<!-- # Tech Stack
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,4 +34,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk
-https://github.com/Ileriayo/markdown-badges -->
+https://github.com/Ileriayo/markdown-badges --> -->

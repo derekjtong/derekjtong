@@ -28,10 +28,10 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<!-- ### Operating Systems
+### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk
-https://github.com/Ileriayo/markdown-badges --> -->
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://github.com/Ileriayo/markdown-badges -->

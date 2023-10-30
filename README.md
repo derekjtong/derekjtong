@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  🎓 Computer Science Student
+  
 </p>
 
 <div align="center">
